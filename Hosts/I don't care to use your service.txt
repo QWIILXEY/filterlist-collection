@@ -2,3 +2,17 @@
 # Description: A blocklist that aims to block any website that force you to log in/create a account
 
 # blocklist starts here
+0.0.0.0 bsky.app
+0.0.0.0 www.bsky.app
+0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
+0.0.0.0 tumblr.com
+0.0.0.0 www.tumblr.com
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 bloomberg.com
+0.0.0.0 www.bloomberg.com
+0.0.0.0 nytimes.com
+0.0.0.0 www.nytimes.com
