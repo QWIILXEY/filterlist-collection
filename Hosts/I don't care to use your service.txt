@@ -1,5 +1,7 @@
 # Title: I don't care to use your service
 # Description: A blocklist that aims to block any website that force you to log in/create a account
+# Homepage: https://github.com/QWIILXEY/filterlist-collection
+# RAW: https://raw.githubusercontent.com/QWIILXEY/filterlist-collection/main/hosts/I%20don't%20care%20to%20use%20your%20service.txt
 
 # blocklist starts here
 0.0.0.0 bsky.app
