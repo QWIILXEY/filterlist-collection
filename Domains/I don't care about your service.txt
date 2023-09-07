@@ -18,3 +18,5 @@ bloomberg.com
 www.bloomberg.com
 nytimes.com
 www.nytimes.com
+ft.com
+www.ft.com
