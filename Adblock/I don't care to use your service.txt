@@ -11,3 +11,4 @@
 ||facebook.com^
 ||bloomberg.com^
 ||nytimes.com^
+||ft.com
