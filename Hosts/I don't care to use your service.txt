@@ -18,3 +18,5 @@
 0.0.0.0 www.bloomberg.com
 0.0.0.0 nytimes.com
 0.0.0.0 www.nytimes.com
+0.0.0.0 ft.com
+0.0.0.0 www.ft.com
