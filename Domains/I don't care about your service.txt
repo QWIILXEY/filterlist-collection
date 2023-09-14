@@ -20,3 +20,5 @@ nytimes.com
 www.nytimes.com
 ft.com
 www.ft.com
+cosmopolitan.com
+www.cosmopolitan.com
