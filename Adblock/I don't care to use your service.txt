@@ -12,3 +12,4 @@
 ||bloomberg.com^
 ||nytimes.com^
 ||ft.com
+||cosmopolitan.com
