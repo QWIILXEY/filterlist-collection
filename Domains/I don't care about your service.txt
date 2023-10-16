@@ -22,3 +22,5 @@ ft.com
 www.ft.com
 cosmopolitan.com
 www.cosmopolitan.com
+thetimes.co.uk
+www.thetimes.co.uk
