@@ -22,3 +22,5 @@
 0.0.0.0 www.ft.com
 0.0.0.0 cosmopolitan.com
 0.0.0.0 www.cosmopolitan.com
+0.0.0.0 thetimes.co.uk
+0.0.0.0 www.thetimes.co.uk
